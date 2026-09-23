@@ -50,7 +50,6 @@ body {
   }
 }
 
-/* ---------- HERO ---------- */
 .hero {
   text-align: center;
   padding: clamp(48px, 9vw, 76px) 0 clamp(36px, 7vw, 56px);
@@ -148,7 +147,6 @@ body {
   margin: 0 auto;
 }
 
-/* ---------- CARDS ---------- */
 .cards {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -226,7 +224,6 @@ body {
   background: rgba(95, 193, 58, 0.08);
 }
 
-/* ---------- CTA ---------- */
 .cta {
   text-align: center;
 }
