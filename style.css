@@ -137,6 +137,7 @@ body {
   .hero h1 {
     white-space: nowrap;
     font-size: 19px;
+    margin-top: 14px;
   }
 }
 .hero p {
@@ -176,6 +177,13 @@ body {
   .card {
     padding: 18px 16px;
     gap: 10px;
+  }
+  .card-footer {
+    gap: 8px;
+  }
+  .play-btn {
+    font-size: 12px;
+    padding: 7px 12px;
   }
 }
 
